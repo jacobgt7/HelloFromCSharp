@@ -1,0 +1,15 @@
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\bin\Debug\net6.0\HelloFromCSharp.exe
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\bin\Debug\net6.0\HelloFromCSharp.deps.json
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\bin\Debug\net6.0\HelloFromCSharp.runtimeconfig.json
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\bin\Debug\net6.0\HelloFromCSharp.dll
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\bin\Debug\net6.0\HelloFromCSharp.pdb
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\obj\Debug\net6.0\HelloFromCSharp.csproj.AssemblyReference.cache
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\obj\Debug\net6.0\HelloFromCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\obj\Debug\net6.0\HelloFromCSharp.AssemblyInfoInputs.cache
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\obj\Debug\net6.0\HelloFromCSharp.AssemblyInfo.cs
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\obj\Debug\net6.0\HelloFromCSharp.csproj.CoreCompileInputs.cache
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\obj\Debug\net6.0\HelloFromCSharp.dll
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\obj\Debug\net6.0\refint\HelloFromCSharp.dll
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\obj\Debug\net6.0\HelloFromCSharp.pdb
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\obj\Debug\net6.0\HelloFromCSharp.genruntimeconfig.cache
+C:\Users\hamil\workspace\LearnCSharpWithPluralsight\HelloFromCSharp\HelloFromCSharp\obj\Debug\net6.0\ref\HelloFromCSharp.dll
